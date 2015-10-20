@@ -17,5 +17,6 @@ Antes de começar você precisa criar uma conta no [Github]( https://github.com/
 ### Para usar durante o minicurso
 - [Git cheat sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 - [Vim cheat sheet](http://vim.rtorr.com/)
+- [Vi](http://marvin.cs.uidaho.edu/Teaching/CS270/viEditorCheatSheet.pdf)
 - [Terminal cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 - Em caso de emergência: https://help.github.com/
