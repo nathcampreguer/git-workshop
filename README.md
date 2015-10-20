@@ -3,7 +3,7 @@
 
 Olá! Este repositório vai ser utilizado como apoio para o minicurso Descobrindo o Git que será ministrado durante a [SECCOMP](http://www.rc.unesp.br/seccomp/) -  semana de estudos do curso de Ciências da Computação da UNESP Rio Claro. 
 
-Antes de começar você precisa criar uma conta no [Github]( https://github.com/). Ao longo do curso você vai entender porque precisamos deste cadastro, mas por enquanto você só precisa saber que nós vamos usá-lo para realizar a maior parte das atividades e criar o casdastro antes de começar (e este "antes"que dizer agora, aí na sua casa mesmo) vai nos poupar um bom tempinho!
+Antes de começar você precisa criar uma conta no [Github]( https://github.com/). Ao longo do curso você vai entender porque precisamos deste cadastro, mas por enquanto você só precisa saber que nós vamos usá-lo para realizar a maior parte das atividades e criar o casdastro antes de começar (e este "antes"quer dizer agora, aí na sua casa mesmo) vai nos poupar um bom tempinho!
 
 ### Sugestão de estudo - antes do minicurso
 - Usar comandos básicos do terminal (LINUX!!)
