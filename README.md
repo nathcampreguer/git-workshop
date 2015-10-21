@@ -23,4 +23,4 @@ Antes de começar você precisa criar uma conta no [Github]( https://github.com/
 - [Slides](http://nathcampreguer.github.io/git-workshop-slides/)
 
 ### Participantes
--
+- Toddynho
